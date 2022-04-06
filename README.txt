@@ -1,3 +1,3 @@
-__Portfólio de Projetos de Data Science__
+**Portfólio de Projetos de Data Science**
 
 João Victor Jordão Nóbrega
